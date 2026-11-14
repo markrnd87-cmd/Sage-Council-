@@ -1,0 +1,6 @@
+{
+  "name": "Sage Counsel",
+  "description": "Plain-language Socratic advisory workspace and Prism-verified domain firewall built on the Super Sage Mode 3.0.2 Codex.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
